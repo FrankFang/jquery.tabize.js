@@ -3,10 +3,10 @@ jquery.tabize.js
 
 How to use
 -----------
-1. Bring jquery.tabize.js into your page.
-2. Tabize your html
+* 1. Bring jquery.tabize.js into your page.
+* 2. Tabize your html
 
-```
+```html
 
 <div data-tabize-container>
       <ul>
@@ -27,6 +27,13 @@ How to use
       </div>
 </div>
 
+```
+
+* 3. Some styles
+
+```css
+.tabize_toggle-selected { background: yellow;}
+.tabize_pane-selected { display: block; }
 ```
 
 That's it.
