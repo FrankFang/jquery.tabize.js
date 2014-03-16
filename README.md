@@ -33,7 +33,7 @@ How to use
 
 ```css
 .tabize_toggle-selected { background: yellow;}
-.tabize_pane-selected { display: block; }
+.tabize_pane-selected { background:yellow; }
 ```
 
 That's it.
